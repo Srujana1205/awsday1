@@ -1,0 +1,2 @@
+This is the second file 
+We were instructed that 2 lines are enough
