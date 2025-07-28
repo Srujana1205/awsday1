@@ -1,0 +1,2 @@
+this is a sample file
+used to try out the git fetch command
