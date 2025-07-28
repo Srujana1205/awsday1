@@ -1,3 +1,5 @@
 Hello this is day 1 of aws class
 the agenda of this class is git and github
 to exit we have to press ctrl and z
+
+This sentence is added after pushing into github
